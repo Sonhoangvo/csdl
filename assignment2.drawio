@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.0.16">
   <diagram name="Page-1" id="0793z2UZXg5M1rlT3vmL">
-    <mxGraphModel dx="2086" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3097" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,9 +20,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="355" y="370" />
-              <mxPoint x="-365" y="370" />
-              <mxPoint x="-365" y="260" />
-              <mxPoint x="-245" y="260" />
+              <mxPoint x="-245" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -78,7 +76,11 @@
           <mxGeometry x="250" y="540" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OUWOCGLOIGpXM07JUbfR-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OUWOCGLOIGpXM07JUbfR-53" target="OUWOCGLOIGpXM07JUbfR-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="373" y="445" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OUWOCGLOIGpXM07JUbfR-53" value="&lt;u&gt;StaffID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="540" width="70" height="30" as="geometry" />
@@ -170,6 +172,63 @@
         </mxCell>
         <mxCell id="OUWOCGLOIGpXM07JUbfR-79" value="Fee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="175" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OUWOCGLOIGpXM07JUbfR-83" value="Bill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OUWOCGLOIGpXM07JUbfR-84" value="&lt;u&gt;BillID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OUWOCGLOIGpXM07JUbfR-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OUWOCGLOIGpXM07JUbfR-85" target="OUWOCGLOIGpXM07JUbfR-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1045" y="580" />
+              <mxPoint x="545" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OUWOCGLOIGpXM07JUbfR-85" value="&lt;u&gt;FnB ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OUWOCGLOIGpXM07JUbfR-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OUWOCGLOIGpXM07JUbfR-86" target="OUWOCGLOIGpXM07JUbfR-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1115" y="260" />
+              <mxPoint x="563" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OUWOCGLOIGpXM07JUbfR-86" value="&lt;u&gt;CustomerID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OUWOCGLOIGpXM07JUbfR-87" value="Price" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OUWOCGLOIGpXM07JUbfR-90" value="Time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OUWOCGLOIGpXM07JUbfR-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OUWOCGLOIGpXM07JUbfR-91" target="OUWOCGLOIGpXM07JUbfR-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="845" y="270" />
+              <mxPoint x="528" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OUWOCGLOIGpXM07JUbfR-91" value="CustomerID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OUWOCGLOIGpXM07JUbfR-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OUWOCGLOIGpXM07JUbfR-94" target="OUWOCGLOIGpXM07JUbfR-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="370" />
+              <mxPoint x="490" y="370" />
+              <mxPoint x="490" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OUWOCGLOIGpXM07JUbfR-94" value="CustomerID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="420" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

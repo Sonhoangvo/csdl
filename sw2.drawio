@@ -162,7 +162,7 @@
         </mxCell>
         <mxCell id="FyL9QYE3VORvS5HKtsA8-58" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FyL9QYE3VORvS5HKtsA8-56" vertex="1" connectable="0">
           <mxGeometry x="-0.2053" y="1" relative="1" as="geometry">
-            <mxPoint x="-38" y="-6" as="offset" />
+            <mxPoint x="-13" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FyL9QYE3VORvS5HKtsA8-59" value="Coor_manage_session" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -228,7 +228,7 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FyL9QYE3VORvS5HKtsA8-78" value="Academic Affair" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-720" y="430" width="160" height="120" as="geometry" />
+          <mxGeometry x="-760" y="440" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FyL9QYE3VORvS5HKtsA8-79" value="&lt;u&gt;Academic Affair ID&lt;/u&gt;&lt;div&gt;Name&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" parent="FyL9QYE3VORvS5HKtsA8-78" vertex="1">
           <mxGeometry y="50" width="160" height="70" as="geometry" />

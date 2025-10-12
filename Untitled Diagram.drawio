@@ -23,10 +23,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ldhBbqSr7qdhFoQw82EO-6" value="Student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="514" width="90" height="40" as="geometry" />
+          <mxGeometry x="530" y="514" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ldhBbqSr7qdhFoQw82EO-7" value="Tutor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="524" width="90" height="40" as="geometry" />
+          <mxGeometry x="700" y="524" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ldhBbqSr7qdhFoQw82EO-8" value="Department Chair" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="680" width="90" height="40" as="geometry" />
@@ -518,7 +518,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ldhBbqSr7qdhFoQw82EO-119" value="Register" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="614" width="70" height="60" as="geometry" />
+          <mxGeometry x="700" y="614" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ldhBbqSr7qdhFoQw82EO-120" value="M" style="endArrow=none;html=1;rounded=0;entryX=0.918;entryY=0.033;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=link;entryPerimeter=0;" edge="1" parent="1" source="ldhBbqSr7qdhFoQw82EO-119" target="ldhBbqSr7qdhFoQw82EO-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -531,6 +531,18 @@
             <mxPoint x="794" y="700" as="sourcePoint" />
             <mxPoint x="780" y="833" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ldhBbqSr7qdhFoQw82EO-123" value="Availability" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="614" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ldhBbqSr7qdhFoQw82EO-124" value="&lt;u&gt;ID&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="830" y="525" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ldhBbqSr7qdhFoQw82EO-125" value="&lt;u&gt;TutorID&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="910" y="570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ldhBbqSr7qdhFoQw82EO-126" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="752.5" y="570" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
